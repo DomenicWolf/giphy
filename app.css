@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+#remove{
+    background-color: rgb(163, 46, 46);
+    border-radius: 40%;
+    border: none;
+}
+#remove:hover {
+    background-color: red;
+}
+
+.box{
+
+    height: 400px;
+    width: 500px;
+
+}
+
+div {
+    
+    text-align: center;
+}
